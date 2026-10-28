@@ -1,0 +1,5 @@
+// THIS WILL GENERATE A TOKEN FOR US
+curl -X POST http://localhost:8080/auth/login -H "Content-Type: application/json" -d "{\"username\" : \"admin\", \"password\":\"password\"}"
+
+// THIS WILL ACCESS THE SECURED API WITH OUR BEARER TOKEN
+curl http://localhost:8081/api/students -H "Authorization: Bearer ""

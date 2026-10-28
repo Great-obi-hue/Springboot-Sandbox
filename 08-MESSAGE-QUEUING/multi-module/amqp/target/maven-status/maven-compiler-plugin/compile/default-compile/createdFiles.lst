@@ -1,0 +1,3 @@
+com\great\amqp\config\RabbitMQConfig.class
+com\great\amqp\App.class
+com\great\amqp\producer\RabbitMQMessageProducer.class

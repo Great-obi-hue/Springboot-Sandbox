@@ -1,0 +1,6 @@
+com\great\clients\fraud\FraudClient.class
+com\great\clients\notification\NotificationRequest.class
+com\great\clients\notification\NotificationRequest$NotificationRequestBuilder.class
+com\great\clients\ClientsApplication.class
+com\great\clients\fraud\FraudCheckResponse$FraudCheckResponseBuilder.class
+com\great\clients\fraud\FraudCheckResponse.class

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\config\AppConfig.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\controller\CustomerController.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\CustomerServiceApplication.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\dto\CustomerRegistrationRequest.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\dto\FraudResponse.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\entity\Customer.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\repository\CustomerRepository.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\customerservice\src\main\java\com\great\customerservice\service\CustomerService.java

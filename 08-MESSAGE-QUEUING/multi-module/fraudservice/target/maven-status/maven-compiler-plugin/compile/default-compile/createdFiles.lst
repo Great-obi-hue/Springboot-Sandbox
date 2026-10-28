@@ -1,0 +1,3 @@
+com\great\fraudservice\FraudServiceApplication.class
+com\great\fraudservice\controller\FraudController.class
+com\great\fraudservice\dto\FraudResponse.class

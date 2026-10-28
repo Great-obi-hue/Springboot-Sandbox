@@ -1,0 +1,11 @@
+com\great\customerservice\dto\CustomerRegistrationRequest.class
+com\great\customerservice\dto\FraudResponse$FraudResponseBuilder.class
+com\great\customerservice\entity\Customer.class
+com\great\customerservice\CustomerServiceApplication.class
+com\great\customerservice\repository\CustomerRepository.class
+com\great\customerservice\controller\CustomerController.class
+com\great\customerservice\dto\FraudResponse.class
+com\great\customerservice\service\CustomerService.class
+com\great\customerservice\dto\CustomerRegistrationRequest$CustomerRegistrationRequestBuilder.class
+com\great\customerservice\entity\Customer$CustomerBuilder.class
+com\great\customerservice\config\AppConfig.class

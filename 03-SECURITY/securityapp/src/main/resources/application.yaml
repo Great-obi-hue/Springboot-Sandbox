@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: securityapp
+
+  security:
+    user:
+      name: great
+      password: test123
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/mongodbapp
+
+server:
+  port: 8080
+

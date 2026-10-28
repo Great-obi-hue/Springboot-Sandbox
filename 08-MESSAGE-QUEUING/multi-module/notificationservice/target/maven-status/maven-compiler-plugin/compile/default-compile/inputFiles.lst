@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\config\NotificationConfig.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\consumer\NotificationConsumer.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\controller\NotificationController.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\entity\Notification.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\NotificationServiceApplication.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\repository\NotificationRepository.java
+C:\Users\user\Desktop\springboot-sandbox\08-MESSAGE-QUEUING\multi-module\notificationservice\src\main\java\com\great\notificationservice\service\NotificationService.java
